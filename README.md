@@ -1,2 +1,4 @@
 # PortFolio-Worksample
-Hello World
+Welcome to Paul Kang's Portfolio!
+
+Work in Progress...
